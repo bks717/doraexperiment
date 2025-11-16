@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Geo Explorer",
+  "description": "An interactive 3D globe that allows users to enter a place name and watch as the globe animates and zooms to that specific location, using the Gemini API to determine geographic coordinates.",
+  "requestFramePermissions": []
+}
