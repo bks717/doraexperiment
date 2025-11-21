@@ -1,8 +1,6 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom/client';
 import App from './App';
-// Import Leaflet CSS - Critical for correct map display
-import 'leaflet/dist/leaflet.css';
 
 const rootElement = document.getElementById('root');
 if (!rootElement) {
